@@ -1,0 +1,118 @@
+Keyword is : pregnant lady
+Score is : 0.000000
+
+Keyword is : special treatment
+Score is : -0.329853
+
+Keyword is : preety good.Something
+Score is : 0.324432
+
+Keyword is : drink order
+Score is : 0.315174
+
+Keyword is : waitress
+Score is : 0.315174
+
+Keyword is : wait
+Score is : 0.324432
+
+Keyword is : business
+Score is : -0.26152
+
+Keyword is : table
+Score is : -0.609569
+
+Keyword is : 15 minutes
+Score is : -0.609569
+
+The rating derived from this review is 3*
+Keyword is : half stars
+Score is : 0.000000
+
+Keyword is : Chandler location
+Score is : 0.382203
+
+Keyword is : creative dishes
+Score is : 0.73468
+
+Keyword is : oly criticism
+Score is : 0.339888
+
+Keyword is : large step
+Score is : 0.373039
+
+Keyword is : better food
+Score is : 0.382203
+
+Keyword is : southwest place
+Score is : 0.373039
+
+Keyword is : sauce
+Score is : 0.339888
+
+Keyword is : flavors
+Score is : -0.440019
+
+Keyword is : BAG
+Score is : -0.326278
+
+The rating derived from this review is 3.5*
+Keyword is : pregnant lady
+Score is : 0.000000
+
+Keyword is : special treatment
+Score is : -0.329853
+
+Keyword is : preety good.Something
+Score is : 0.324432
+
+Keyword is : drink order
+Score is : 0.315174
+
+Keyword is : waitress
+Score is : 0.315174
+
+Keyword is : wait
+Score is : 0.324432
+
+Keyword is : business
+Score is : -0.26152
+
+Keyword is : table
+Score is : -0.609569
+
+Keyword is : 15 minutes
+Score is : -0.609569
+
+The rating derived from this review is 3*
+Keyword is : half stars
+Score is : 0.000000
+
+Keyword is : Chandler location
+Score is : 0.382203
+
+Keyword is : creative dishes
+Score is : 0.73468
+
+Keyword is : oly criticism
+Score is : 0.339888
+
+Keyword is : large step
+Score is : 0.373039
+
+Keyword is : better food
+Score is : 0.382203
+
+Keyword is : southwest place
+Score is : 0.373039
+
+Keyword is : sauce
+Score is : 0.339888
+
+Keyword is : flavors
+Score is : -0.440019
+
+Keyword is : BAG
+Score is : -0.326278
+
+The rating derived from this review is 3.5*
